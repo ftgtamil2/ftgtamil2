@@ -1,0 +1,22 @@
+Energy:
+- Energy cannot be created or destroyed, only transformed.
+- Types: Kinetic, potential, thermal, chemical, electrical, nuclear.
+- Renewable energy: solar, wind, hydro, geothermal.
+- Fossil fuels: coal, oil, natural gas.
+
+Units of Energy:
+- Joule (J), calorie, kilowatt-hour (kWh).
+
+Energy Sources:
+- Solar panels convert sunlight into electricity.
+- Wind turbines use air flow to generate power.
+- Hydroelectric dams generate power from water flow.
+
+Fossil Fuels:
+- Burning coal releases carbon dioxide.
+- Oil is refined into gasoline and diesel.
+- Natural gas is used in heating and electricity.
+
+Energy Innovations:
+- Smart grids manage electricity distribution.
+- Electric vehicles reduce dependence on fossil fuels.

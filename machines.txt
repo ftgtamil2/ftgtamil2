@@ -1,0 +1,23 @@
+Machines:
+- Simple machines: lever, wheel and axle, pulley, inclined plane, wedge, screw.
+- Complex machines: Combine multiple simple machines.
+- Engines convert fuel into motion.
+- Robots use sensors and software to perform tasks.
+
+Examples:
+- Cars, airplanes, washing machines, computers.
+
+Types of Machines:
+- Mechanical: Engines, pulleys, gears.
+- Electrical: Motors, generators, transformers.
+- Digital: Computers, smartphones, smart devices.
+
+Engineering Fields:
+- Mechanical: Design and analysis of machines.
+- Electrical: Power systems and electronics.
+- Robotics: Integration of software, mechanics, electronics.
+
+Examples of Innovations:
+- Autonomous vehicles.
+- AI-powered robots.
+- 3D printers.

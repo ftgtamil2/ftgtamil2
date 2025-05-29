@@ -1,0 +1,14 @@
+Health:
+- State of physical, mental, and social well-being.
+
+Nutrition:
+- Carbohydrates, proteins, fats, vitamins, minerals.
+- Balanced diet promotes good health.
+
+Fitness:
+- Physical activity improves cardiovascular health and strength.
+- Recommended: 30 minutes of exercise daily.
+
+Mental Health:
+- Includes emotional and psychological well-being.
+- Stress management and social support are important.

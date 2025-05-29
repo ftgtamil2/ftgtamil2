@@ -1,0 +1,22 @@
+Universe:
+- Estimated to be 13.8 billion years old.
+- Composed of galaxies, stars, planets, black holes.
+- Milky Way is our galaxy.
+- Dark matter and dark energy make up most of the universe.
+
+Cosmic Events:
+- Supernovae, black holes, cosmic microwave background.
+
+Galaxies:
+- Spiral, elliptical, and irregular are the main types.
+- The Milky Way contains over 100 billion stars.
+- Galaxies form clusters and superclusters.
+
+Cosmology:
+- The Big Bang Theory explains the origin of the universe.
+- The universe is expanding.
+- Dark energy accelerates the expansion.
+
+Exploration Tools:
+- Telescopes collect light to observe distant objects.
+- Probes send data from space missions.

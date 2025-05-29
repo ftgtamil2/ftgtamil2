@@ -1,0 +1,14 @@
+Geography:
+- Study of Earth's landscapes, people, and environments.
+
+Continents:
+- Africa, Antarctica, Asia, Europe, North America, South America, Australia.
+
+Oceans:
+- Pacific, Atlantic, Indian, Southern, Arctic.
+
+Landforms:
+- Mountains, valleys, plains, deserts, plateaus.
+
+Natural Disasters:
+- Earthquakes, hurricanes, tsunamis, volcanic eruptions.

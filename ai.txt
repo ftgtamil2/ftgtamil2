@@ -1,0 +1,15 @@
+Artificial Intelligence (AI):
+- Simulation of human intelligence in machines.
+
+Types of AI:
+- Narrow AI: Specialized tasks (e.g., chatbots, recommendation systems).
+- General AI: Human-like thinking (theoretical).
+- Superintelligent AI: Beyond human capabilities (hypothetical).
+
+Applications:
+- Healthcare: Diagnosis, robot surgery.
+- Transport: Self-driving cars.
+- Finance: Fraud detection, trading algorithms.
+
+Machine Learning:
+- Subfield of AI: systems learn from data.

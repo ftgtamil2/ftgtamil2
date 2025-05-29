@@ -1,0 +1,13 @@
+Biology:
+- Study of living organisms.
+- Cells are the basic units of life.
+- DNA carries genetic material.
+
+Branches of Biology:
+- Botany: Study of plants.
+- Zoology: Study of animals.
+- Microbiology: Study of microorganisms.
+
+Cell Types:
+- Prokaryotic: No nucleus (e.g., bacteria).
+- Eukaryotic: Has a nucleus (e.g., animal and plant cells).

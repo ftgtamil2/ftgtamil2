@@ -1,0 +1,23 @@
+Diseases:
+- Diabetes: High blood sugar levels.
+- Hypertension: High blood pressure.
+- Cancer: Uncontrolled cell growth.
+- Asthma: Inflammation of airways.
+
+Disease Prevention:
+- Healthy diet, regular exercise, vaccinations, hygiene.
+
+Types of Diseases:
+- Infectious: Caused by pathogens (bacteria, viruses, fungi).
+- Genetic: Inherited from parents (e.g., cystic fibrosis).
+- Lifestyle: Linked to habits (e.g., obesity, heart disease).
+
+Treatment Methods:
+- Antibiotics for bacterial infections.
+- Vaccines for prevention.
+- Surgery, therapy, and medication for various conditions.
+
+Health Tips:
+- Drink clean water.
+- Maintain hygiene.
+- Regular medical checkups.

@@ -1,0 +1,16 @@
+Chemistry:
+- Study of matter and its interactions.
+
+Atoms and Elements:
+- Atom: Smallest unit of matter.
+- Elements: Pure substances (e.g., H, O, C).
+
+States of Matter:
+- Solid, liquid, gas, plasma.
+
+Chemical Reactions:
+- Combustion, oxidation, acid-base, precipitation.
+- Law of Conservation of Mass: Matter is neither created nor destroyed.
+
+Periodic Table:
+- Organized by atomic number and properties.
